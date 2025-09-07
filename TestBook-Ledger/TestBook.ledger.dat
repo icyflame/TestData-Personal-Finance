@@ -1,131 +1,143 @@
 2025-09-01  Invest in Fixed Income
-  Assets:Investments:Fixed Income  INR  4000
-  Assets:Current Assets:Savings Account  INR  -4000
+  Assets:Investments:Fixed Income  "INR"  4000
+  Assets:Current Assets:Savings Account  "INR"  -4000
 
 2025-10-01  Invest in Fixed Income
-  Assets:Investments:Fixed Income  INR  4000
-  Assets:Current Assets:Savings Account  INR  -4000
+  Assets:Investments:Fixed Income  "INR"  4000
+  Assets:Current Assets:Savings Account  "INR"  -4000
 
 2025-11-01  Invest in Fixed Income
-  Assets:Investments:Fixed Income  INR  4000
-  Assets:Current Assets:Savings Account  INR  -4000
+  Assets:Investments:Fixed Income  "INR"  4000
+  Assets:Current Assets:Savings Account  "INR"  -4000
 
-2025-09-01  Invest in Stock market
-  Assets:Investments:Stock Market  INR  4000
-  Assets:Current Assets:Savings Account  INR  -4000
+2025-09-01  Buy Stock
+  Assets:Investments:Stocks and Funds:Airline Stock  "ANA"  20
+  Assets:Current Assets:Savings Account  "INR"  -2000
 
-2025-10-01  Invest in Stock market
-  Assets:Investments:Stock Market  INR  4000
-  Assets:Current Assets:Savings Account  INR  -4000
+2025-10-01  Buy Stock
+  Assets:Investments:Stocks and Funds:Airline Stock  "ANA"  10
+  Assets:Current Assets:Savings Account  "INR"  -2000
 
-2025-11-01  Invest in Stock market
-  Assets:Investments:Stock Market  INR  4000
-  Assets:Current Assets:Savings Account  INR  -4000
+2025-11-01  Buy Stock
+  Assets:Investments:Stocks and Funds:Airline Stock  "ANA"  4
+  Assets:Current Assets:Savings Account  "INR"  -2000
+
+2025-09-01  Buy Fund Units
+  Assets:Investments:Stocks and Funds:Index Fund  "VANGUARD GLOBAL"  1000
+  Assets:Current Assets:Savings Account  "INR"  -2000
+
+2025-10-01  Buy Fund Units
+  Assets:Investments:Stocks and Funds:Index Fund  "VANGUARD GLOBAL"  500
+  Assets:Current Assets:Savings Account  "INR"  -2000
+
+2025-11-01  Buy Fund Units
+  Assets:Investments:Stocks and Funds:Index Fund  "VANGUARD GLOBAL"  1000
+  Assets:Current Assets:Savings Account  "INR"  -2000
 
 2025-08-01  Opening Balance
-  Assets:Current Assets:Cash in Wallet  INR  10000
-  Equity:Opening Balances  INR  -10000
+  Assets:Current Assets:Cash in Wallet  "INR"  10000
+  Equity:Opening Balances  "INR"  -10000
 
 2025-08-01  Opening Balance
-  Assets:Current Assets:Savings Account  INR  10000
-  Equity:Opening Balances  INR  -10000
+  Assets:Current Assets:Savings Account  "INR"  10000
+  Equity:Opening Balances  "INR"  -10000
 
 2025-08-31  Salary
-  Expenses:C0:Taxes  INR  10000
-  Assets:Current Assets:Savings Account  INR  20000
-  Income:Salary  INR  -30000
+  Expenses:C0:Taxes  "INR"  10000
+  Assets:Current Assets:Savings Account  "INR"  20000
+  Income:Salary  "INR"  -30000
 
 2025-08-31  Pay credit card bill
-  Liabilities:Credit Card  INR  6850
-  Assets:Current Assets:Savings Account  INR  -6850
+  Liabilities:Credit Card  "INR"  6850
+  Assets:Current Assets:Savings Account  "INR"  -6850
 
 2025-09-30  Salary
-  Expenses:C0:Taxes  INR  10000
-  Assets:Current Assets:Savings Account  INR  20000
-  Income:Salary  INR  -30000
+  Expenses:C0:Taxes  "INR"  10000
+  Assets:Current Assets:Savings Account  "INR"  20000
+  Income:Salary  "INR"  -30000
 
 2025-09-30  Pay credit card bill
-  Liabilities:Credit Card  INR  8280
-  Assets:Current Assets:Savings Account  INR  -8280
+  Liabilities:Credit Card  "INR"  8280
+  Assets:Current Assets:Savings Account  "INR"  -8280
 
 2025-10-31  Salary
-  Expenses:C0:Taxes  INR  10000
-  Assets:Current Assets:Savings Account  INR  20000
-  Income:Salary  INR  -30000
+  Expenses:C0:Taxes  "INR"  10000
+  Assets:Current Assets:Savings Account  "INR"  20000
+  Income:Salary  "INR"  -30000
 
 2025-10-31  Pay credit card bill
-  Liabilities:Credit Card  INR  7030
-  Assets:Current Assets:Savings Account  INR  -7030
+  Liabilities:Credit Card  "INR"  7030
+  Assets:Current Assets:Savings Account  "INR"  -7030
 
 2025-08-02  Groceries
-  Expenses:C1:Groceries  INR  3500
-  Liabilities:Credit Card  INR  -3500
+  Expenses:C1:Groceries  "INR"  3500
+  Liabilities:Credit Card  "INR"  -3500
 
 2025-08-10  Dinner
-  Expenses:C1:Dining  INR  450
-  Liabilities:Credit Card  INR  -450
+  Expenses:C1:Dining  "INR"  450
+  Liabilities:Credit Card  "INR"  -450
 
 2025-08-20  Dinner
-  Expenses:C1:Dining  INR  600
-  Liabilities:Credit Card  INR  -600
+  Expenses:C1:Dining  "INR"  600
+  Liabilities:Credit Card  "INR"  -600
 
 2025-08-20  Electricity
-  Expenses:C1:Utilities  INR  750
-  Liabilities:Credit Card  INR  -750
+  Expenses:C1:Utilities  "INR"  750
+  Liabilities:Credit Card  "INR"  -750
 
 2025-08-25  Dinner
-  Expenses:C1:Dining  INR  750
-  Liabilities:Credit Card  INR  -750
+  Expenses:C1:Dining  "INR"  750
+  Liabilities:Credit Card  "INR"  -750
 
 2025-08-25  T-shirts
-  Expenses:C2:Clothes  INR  800
-  Liabilities:Credit Card  INR  -800
+  Expenses:C2:Clothes  "INR"  800
+  Liabilities:Credit Card  "INR"  -800
 
 2025-09-04  Dinner
-  Expenses:C1:Dining  INR  900
-  Liabilities:Credit Card  INR  -900
+  Expenses:C1:Dining  "INR"  900
+  Liabilities:Credit Card  "INR"  -900
 
 2025-09-07  Lunch
-  Expenses:C1:Dining  INR  250
-  Liabilities:Credit Card  INR  -250
+  Expenses:C1:Dining  "INR"  250
+  Liabilities:Credit Card  "INR"  -250
 
 2025-09-10  Groceries
-  Expenses:C1:Groceries  INR  6000
-  Liabilities:Credit Card  INR  -6000
+  Expenses:C1:Groceries  "INR"  6000
+  Liabilities:Credit Card  "INR"  -6000
 
 2025-09-20  Electricity
-  Expenses:C1:Utilities  INR  900
-  Liabilities:Credit Card  INR  -900
+  Expenses:C1:Utilities  "INR"  900
+  Liabilities:Credit Card  "INR"  -900
 
 2025-09-25  Dinner
-  Expenses:C1:Dining  INR  230
-  Liabilities:Credit Card  INR  -230
+  Expenses:C1:Dining  "INR"  230
+  Liabilities:Credit Card  "INR"  -230
 
 2025-10-05  Dinner
-  Expenses:C1:Dining  INR  700
-  Liabilities:Credit Card  INR  -700
+  Expenses:C1:Dining  "INR"  700
+  Liabilities:Credit Card  "INR"  -700
 
 2025-10-07  Lunch
-  Expenses:C1:Dining  INR  250
-  Liabilities:Credit Card  INR  -250
+  Expenses:C1:Dining  "INR"  250
+  Liabilities:Credit Card  "INR"  -250
 
 2025-10-10  Groceries
-  Expenses:C1:Groceries  INR  1380
-  Liabilities:Credit Card  INR  -1380
+  Expenses:C1:Groceries  "INR"  1380
+  Liabilities:Credit Card  "INR"  -1380
 
 2025-10-19  Groceries
-  Expenses:C1:Groceries  INR  2000
-  Liabilities:Credit Card  INR  -2000
+  Expenses:C1:Groceries  "INR"  2000
+  Liabilities:Credit Card  "INR"  -2000
 
 2025-10-20  Electricity
-  Expenses:C1:Utilities  INR  400
-  Liabilities:Credit Card  INR  -400
+  Expenses:C1:Utilities  "INR"  400
+  Liabilities:Credit Card  "INR"  -400
 
 2025-10-25  Dinner
-  Expenses:C1:Dining  INR  400
-  Liabilities:Credit Card  INR  -400
+  Expenses:C1:Dining  "INR"  400
+  Liabilities:Credit Card  "INR"  -400
 
 2025-10-28  T-shirts
-  Expenses:C2:Clothes  INR  1900
-  Liabilities:Credit Card  INR  -1900
+  Expenses:C2:Clothes  "INR"  1900
+  Liabilities:Credit Card  "INR"  -1900
 
