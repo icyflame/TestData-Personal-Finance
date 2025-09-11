@@ -22,6 +22,11 @@
   Assets:Investments:Stocks and Funds:Airline Stock  "ANA"  4
   Assets:Current Assets:Savings Account  "INR"  -2000
 
+2025-12-01  Buy Stock
+  Assets:Investments:Stocks and Funds:Airline Stock  "ANA"  4
+  Expenses:C0:Bank Service Charges (Contrived)  "JPY"  0
+  Assets:Current Assets:Savings Account  "INR"  -2010
+
 2025-09-01  Buy Fund Units
   Assets:Investments:Stocks and Funds:Index Fund  "VANGUARD GLOBAL"  1000
   Assets:Current Assets:Savings Account  "INR"  -2000
@@ -68,6 +73,11 @@
 2025-10-31  Pay credit card bill
   Liabilities:Credit Card  "INR"  7030
   Assets:Current Assets:Savings Account  "INR"  -7030
+
+2025-10-26  Dinner Abroad
+  Expenses:C1:Dining  "INR"  500
+  Liabilities:Credit Card  "INR"  -400
+  Assets:Current Assets:Foreign Bank Account  "JPY"  -200
 
 2025-08-02  Groceries
   Expenses:C1:Groceries  "INR"  3500
